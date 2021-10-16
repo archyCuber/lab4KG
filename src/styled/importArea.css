@@ -1,0 +1,23 @@
+.inputArea {
+    margin-left: 32px;
+    width: 20%;
+}
+
+.inputPointLine {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.mui-textfield {
+    width: 30%;
+    margin: 8px;
+}
+
+.inputTextField {
+    width: 40%;
+}
+
+#text-are {
+    width: 65%;
+}
